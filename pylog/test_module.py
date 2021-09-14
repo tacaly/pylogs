@@ -1,8 +1,9 @@
-# content of test_module.py
+import pylog
 import pytest
 
 
 def test_func_fast():
+    pylog.info('test module log message!')
     pass
 
 
