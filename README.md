@@ -9,6 +9,6 @@ PyLogs File Fri Jul 16 19:21:52 2021
 ```
 ## Use example:
 ```bash
-logger.info('This is a log message!')
-logger.error('This is an error message.')
+pylog.info('This is a log message!')
+pylog.error('This is an error message.')
 ```
